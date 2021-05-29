@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Native, PHP, Python, Web Development**
 
-- 📫 How to reach me **Instagram(@devopscoding),Twitter(@devopscoidng)**
+- 📫 How to reach me **Instagram[@devopscoding](http://instagram.com/devopscoding),Twitter[@devopscoidng](https://twitter.com/devopscoding)**
 
 
 <h3 align="left">Languages and Tools:</h3>
