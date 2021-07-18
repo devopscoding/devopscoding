@@ -21,6 +21,9 @@
 [InstallSW](https://installersw.blogspot.com/)
 
 ## My Application Download From Playstore
+- 1)Learn HTML5 
+- 2)ULearn-for Free Udemy Coupon and Courese!
+
 <a href="https://play.google.com/store/apps/developer?id=harshal+patel"><img src="playstore.png"  width="120"></a>
 
 <h3 align="left">Languages and Tools:</h3>
