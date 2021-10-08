@@ -21,9 +21,9 @@
 [InstallSW](https://installersw.blogspot.com/)
 
 ## My Application Download From Playstore
-- 1)Learn HTML5 
-- 2)ULearn-for Free Udemy Coupon and Courese!
-- 3)Signal Group Link Finder
+- 1)[Learn HTML5](https://play.google.com/store/apps/details?id=com.learnhtml5)
+- 2)[ULearn](https://play.google.com/store/apps/details?id=com.ulearn)
+- 3)[Signal Group Link Finder](https://play.google.com/store/apps/details?id=com.signalgroupapp)
 
 <a href="https://play.google.com/store/apps/developer?id=harshal+patel"><img src="playstore.png"  width="120"></a>
 
